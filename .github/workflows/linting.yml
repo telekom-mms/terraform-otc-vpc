@@ -9,4 +9,4 @@ on:
 
 jobs:
   call-linting:
-    uses: telekom-mms/.github/.github/workflows/terraform_linting.yml@main
+    uses: telekom-mms/.github/.github/workflows/terraform_linting.yml@e522992936bc369f4baa7634ba96846fca5fda97 # main
